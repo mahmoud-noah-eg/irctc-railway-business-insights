@@ -105,9 +105,8 @@ Power BI Desktop, DAX, Excel/CSV cleaning.
 
 ## Author
 
-**[Mahmoud Noah]** 
-· [LinkedIn](www.linkedin.com/in/mahmoud-noah) 
-. [Github](https://github.com/mahmoud-noah-eg)
-· [Email](mahmoud.noah1208@gmail.com)
+**Mahmoud Noah** 
+· LinkedIn: (www.linkedin.com/in/mahmoud-noah) 
+. Github: (https://github.com/mahmoud-noah-eg)
 
 
